@@ -16,3 +16,4 @@ spec:
         image: gcr.io/google-samples/echo-app:1.0
         ports:
         - containerPort: 8000
+
